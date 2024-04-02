@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-main {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.List-item {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.List-change-block {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.w50 {
+  width: 50%;
+}
+
+.w100 {
+  width: 100%;
+}
